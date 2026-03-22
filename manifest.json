@@ -1,5 +1,5 @@
 {
-  "name": "Назва мого додатка",
+  "name": "Калькулятор валют",
   "short_name": "Додаток",
   "start_url": "index.html",
   "display": "standalone",
