@@ -1,6 +1,6 @@
 {
-  "name": "Калькулятор валют",
-  "short_name": "Додаток",
+  "name": "Конвертер валют",
+  "short_name": "Конвертер валют",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
